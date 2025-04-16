@@ -32,6 +32,9 @@ PRODUCT_PACKAGES += \
     SettingsProvider-PDX225-Overlay \
     SystemUIRes-PDX225-Overlay
 
+# Shipping API
+PRODUCT_SHIPPING_API_LEVEL := 31
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
