@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise, are
-## from XQ-CC54 Customized_EU-UK_65.2.A.2.224.
+## from XQ-CC54 Customized_EU-UK_65.2.A.2.246.
 
 # ACDBs
 vendor/etc/acdbdata/Sony_murray_Bluetooth_cal.acdb
