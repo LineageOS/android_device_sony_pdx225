@@ -23,8 +23,8 @@ PRODUCT_MODEL := XQ-CC72
 PRODUCT_GMS_CLIENTID_BASE := android-sonymobile
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="XQ-CC72-user 14 65.2.A.2.246 065002A002024600521077690 release-keys" \
-    BuildFingerprint=Sony/XQ-CC72/XQ-CC72:14/65.2.A.2.246/065002A002024600521077690:user/release-keys \
+    BuildDesc="XQ-CC72-user 14 65.2.A.2.270 065002A002027000521077690 release-keys" \
+    BuildFingerprint=Sony/XQ-CC72/XQ-CC72:14/65.2.A.2.270/065002A002027000521077690:user/release-keys\
     DeviceName=XQ-CC72 \
     DeviceProduct=XQ-CC72 \
     SystemDevice=XQ-CC72 \
