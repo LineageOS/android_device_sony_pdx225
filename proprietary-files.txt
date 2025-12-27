@@ -225,9 +225,9 @@ vendor/usr/idc/sec_touchscreen.idc
 
 # NFC
 oem/etc/libese-nxp.conf:vendor/etc/libese-nxp.conf
-vendor/etc/libnfc-nci.conf
-vendor/etc/libnfc-nxp.conf
-vendor/etc/libnfc-nxp_RF.conf
+oem/etc/libnfc-nci.conf:vendor/etc/libnfc-nci.conf;TRYSRCFIRST
+oem/etc/libnfc-nxp.conf:vendor/etc/libnfc-nxp.conf;TRYSRCFIRST
+oem/etc/libnfc-nxp_RF.conf:vendor/libnfc-nxp_RF.conf
 
 # Sensors
 vendor/etc/sensors/config/strait_qrd_af6133e_0.json
